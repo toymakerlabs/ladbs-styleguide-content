@@ -1,6 +1,7 @@
 ---
 title: Hey it's a test
 layout: article
+index: true
 ---
 
 This style guide was created for MailChimp employees, but we hope it’s helpful for other content and communications teams too.
