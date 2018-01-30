@@ -3,11 +3,11 @@ title: Welcome to the MailChimp Content Style Guide
 layout: article
 ---
 
-This style guide was created for MailChimp employees, but we hope it’s helpful for other content and communications teams too.
+This style guide is super cool was created for MailChimp employees, but we hope it’s helpful for other content and communications teams too.
 
 ## If you work at MailChimp
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for MailChimp.
+<h1>This is our company style guide</h1>. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for MailChimp.
 
 This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
 
