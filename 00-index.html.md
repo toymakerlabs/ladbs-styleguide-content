@@ -6,6 +6,8 @@ index: true
 
 This style guide is super cool was created for MailChimp employees, but we hope it’s helpful for other content and communications teams too.
 
+Testy test test
+
 ## If you work at MailChimp
 <table class="table table-striped">
   <thead>
